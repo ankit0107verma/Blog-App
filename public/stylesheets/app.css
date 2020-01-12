@@ -1,0 +1,23 @@
+i.icon {
+	font-size: 2em;
+}
+
+.container.main{
+	margin-top: 7em;
+}
+
+#delete {
+	display: inline-flex;
+	/*padding-left: 506.645px;*/
+	padding-left: 75.69%;
+
+}
+
+#extra {
+	font-size: 15px;
+	font-weight: bold;
+	padding-bottom: 14px;
+}
+.ED {
+	margin-top: 25px;
+}
