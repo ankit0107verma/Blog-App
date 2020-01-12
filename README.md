@@ -5,8 +5,8 @@
 ## Prerequistes
 
 * What things you need to install and how to install?
-** All the required information is written in package.json file please have a view.
-** After installing required tool run __node app.js__
+  * All the required information is written in package.json file please have a view.
+  * After installing required tool run __node app.js__
 
 ## Deployement
 
